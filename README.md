@@ -1331,7 +1331,7 @@ In the current scientific publishing system, the abstract has become a sacred co
 
 The abstract is the **only** part of a paper that most people will ever read. It is the part that journalists quote, that policymakers cite, that AI models train on, that clinicians skim, that the public trusts. Yet the abstract is also the part most prone to **overstatement, exaggeration, and selective framing**.
 
-A study examining nearly 1,000 papers on nutrition and obesity published in leading journals found that **overreaching in presenting results in studies focused on nutrition and obesity topics is common in articles published in leading journals**. Nearly **8.6%** of abstracts in top peer-reviewed journals included statements that **exaggerate the significance of the results**.
+A study examining nearly 1,000 papers on nutrition and obesity published in leading journals found that **overreaching in presenting results in studies focused on nutrition and obesity topics is common in articles published in leading journals**. Nearly **8.9%** of abstracts in top peer-reviewed journals included statements that **exaggerate the significance of the results**.
 "Results indicate that 8.9% of studies have overreaching conclusions"
 — Menachemi, N., et al. (2013). Overstatement of results in the nutrition and obesity peer‑reviewed literature. American Journal of Preventive Medicine, 45(5), 615‑621.
 
@@ -1579,7 +1579,7 @@ The public sees the interpretation. The media amplifies it. Policy is based on i
 
 ---
 
-**Part 3 Word Count: Approximately 4,800 words**
+**Part 3 Word Count: Approximately 6,200 words**
 
 
 
