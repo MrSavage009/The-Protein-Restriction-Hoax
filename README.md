@@ -81,7 +81,7 @@ The review paper is not an isolated piece of scientific inquiry. It is part of a
 | **Citation** | PURE, NHANES (age-dependent), Framingham systematically omitted |
 | **Authors' Admissions** | Protein beneficial for active people; not for everyone; human studies use RDA-level protein |
 | **Funding** | WEF, billionaires, NGOs have clear interest in reducing meat consumption |
-| **Gatekeeping** | Paywall for the primary sources thr review paper references to. Even if the review paper is Open Acces, we cant verify the actual emperical studies it reviews. Labeling mechanism protect the narrative |
+| **Gatekeeping** | Review is OA but primary sources are paywalled; abstract functions as standalone knowledge unit; anonymous review; labeling mechanism protects narrative. |
 | **AI Behavior** | Selective enforcement; "conspiracy theorist" label shuts down inquiry |
 
 ### The Verdict
